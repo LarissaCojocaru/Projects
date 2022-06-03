@@ -1,0 +1,29 @@
+img{align-items: center;}
+div{background-color: goldenrod;}
+h1{text-align: center;
+color: cornsilk;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-transform: uppercase;
+text-decoration: underline;
+}
+
+body{margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+p{text-align: center;
+    text-decoration: solid;
+    color: ghostwhite;
+
+
+
+
+}
+
+h2{text-align: center;
+    color: cornsilk;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;}

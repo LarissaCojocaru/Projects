@@ -1,0 +1,64 @@
+element.style {
+    margin-top: 0px;
+    margin-left: -382px;
+    width: 1244px;
+    height: 700px;
+}
+.ww_element[fullwidth="true"] .ww_image_wrapper img {
+    max-width: none;
+    max-height: none;
+}
+.ww_image_wrapper > img {
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+}
+fieldset, img {
+    border: 0;
+}
+img[Stilul atributelor] {
+    width: 1244px;
+    aspect-ratio: auto 1244 / 700;
+    height: 700px;
+}
+.content {
+    overflow: hidden;
+    word-wrap: break-word;
+    height: 100%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    position: relative;
+}
+
+Atributul style {
+    width: 480px;
+    height: 700px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    display: block;
+    visibility: visible;
+}
+@media (max-width: 767px) and (min-width: 480px)
+.p_default_block, .ww_customStyle_p_default_block, #container > div, .wwTextContent p:not([class]) {
+    font-size: 17px;
+    line-height: 27px;
+}
+.p_default_block, .ww_customStyle_p_default_block, #container > div, .wwTextContent p:not([class]) {
+    font-family: "Lora 400 normal";
+    color: rgb(51, 51, 51);
+    font-weight: normal;
+    text-decoration: none;
+}
+body {
+    -webkit-text-size-adjust: 100%;
+    background-color: #333333;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+    height: 1px;
+    -webkit-font-smoothing: antialiased;
+}

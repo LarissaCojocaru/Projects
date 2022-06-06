@@ -1,0 +1,33 @@
+body{color: grey;
+
+border-style: ;
+
+
+
+
+
+}
+
+
+div{color: darkgray;
+background: grey;
+ border-style: double;
+  border-width: 15px;
+
+}
+h2{
+ text-align: center;
+	color: ghostwhite;
+}
+
+img{width: 500px;}
+
+p {
+border-style: dotted;
+  border-width: 2px;
+	font-family: courier new;
+	font-size: 20-px;
+	color: white;
+}
+
+

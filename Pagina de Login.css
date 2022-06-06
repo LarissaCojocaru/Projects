@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    border-style: double;
+
+}
+
+body{
+    background-image: url(''), url("main.jpg");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+     
+}
+
+div{text-align: left;
+    font-size: x-large;
+    text-shadow: 10px;
+    font-style: inherit;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     border-color: black;
+     color: black;
+}
+
+button{
+    color: aqua;
+    background-color: black;
+}
+
+img{
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+}
